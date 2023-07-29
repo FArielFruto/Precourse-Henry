@@ -1,2 +1,4 @@
-prueba de como crear un repositorio y clonarlo desde github a mi computadora plp
-xd
+homework 1 finalizada
+
+homework 2 finalizada
+
